@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "raydel",
+      "lname": "garcia",
+      "email": "raydel@teste.com",
+      "password": "123456",
+      "cspassword": "123456"
+    }
+  ]
+}
